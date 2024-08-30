@@ -31,8 +31,7 @@
 
 ```
 
-`При необходимости прикрепитe сюда скриншоты
-![zabbix_admin](https://github.com/proninsn/smon-02-hw/blob/main/img/zabbix_admin.JPG)`
+![zabbix_admin](https://github.com/proninsn/smon-02-hw/blob/main/img/zabbix_admin.JPG)
 
 
 ---
