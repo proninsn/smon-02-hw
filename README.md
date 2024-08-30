@@ -32,7 +32,7 @@
 ```
 
 `При необходимости прикрепитe сюда скриншоты
-![zabbix_admin](/home/sergei/smon-02-hw/img/admin_zabbix.JPG)`
+![zabbix_admin](https://github.com/proninsn/smon-02-hw/blob/main/img/zabbix_admin.JPG)`
 
 
 ---
