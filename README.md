@@ -18,7 +18,7 @@
 
 ### Решение 1
 
-
+![zadanie 1](https://github.com/proninsn/smon-03-hw/blob/main/img/Zabbix2_Zadanie1.JPG)
 
 ---
 
@@ -38,12 +38,6 @@
 
  ---
 
- ### Решение 2
-
-
-
- ---
-
 ### Задание 3
 Привяжите созданный шаблон к двум хостам. Также привяжите к обоим хостам шаблон Linux by Zabbix Agent.
 
@@ -58,9 +52,9 @@
 
  ---
 
- ### Решение 3
+ ### Решение 2-3
 
-
+![zadanie 2-3](https://github.com/proninsn/smon-03-hw/blob/main/img/Zabbix2_Zadanie2-3.JPG)
 
  ---
 
@@ -79,7 +73,7 @@
 
  ### Решение 4
 
-
+![zadanie 4](https://github.com/proninsn/smon-03-hw/blob/main/img/Zabbix2_Zadanie4.JPG)
  
  ---
 
